@@ -13,6 +13,7 @@
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
     "lucide-react": "^1.24.0",
+    "mongodb": "^7.5.0",
     "next": "16.2.10",
     "ogl": "^1.0.11",
     "posthog-js": "^1.404.1",
@@ -32,5 +33,10 @@
     "tailwindcss": "^4",
     "tailwindcss-animate": "^1.0.7",
     "typescript": "^5"
+  },
+  "allowScripts": {
+    "sharp@0.34.5": true,
+    "core-js@3.49.0": true,
+    "unrs-resolver@1.12.2": true
   }
 }
